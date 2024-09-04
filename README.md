@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirionqs&bg_color=0000&title_color=47F&text_color=999&border_color=8884&hide=mathematica,scss">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirionqs&bg_color=0000&title_color=47F&text_color=999&border_color=8884&hide=mathematica,css,scss">
     </a>
 </p>
 <p align="center">
